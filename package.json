@@ -1,0 +1,8 @@
+{
+  "name": "monitoring_application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akinloludavid/monitoring_application.git",
+  "author": "akinloludavid <akinloludavid2727@gmail.com>",
+  "license": "MIT"
+}
